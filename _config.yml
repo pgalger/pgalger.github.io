@@ -23,7 +23,7 @@ email: pgalger@mtu.edu
 description: >-
   Statiscal analysis and visualization for "The Wickers" Sleeper fantasy football league.
   Hosted through GitHub Pages using Jekyll.
-  Updated weekly
+  Updated weekly based on the Sleeper API.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  pgalger
